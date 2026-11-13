@@ -24,12 +24,10 @@ export default function Home() {
               className="w-32 md:w-44 h-auto drop-shadow-md rounded-2xl" 
             />
           </div>
-          <h1 className="text-5xl md:text-7xl font-extrabold tracking-tight mb-6" data-aos="fade-up">
-            {t('heroTitle')} <br className="hidden md:block" />
-            <span className="bg-gradient-to-r from-blue-600 to-cyan-400 bg-clip-text text-transparent drop-shadow-lg">
-              RCELL NEW ERA
-            </span>
-          </h1>
+<h1 className="text-2xl sm:text-3xl md:text-5xl lg:text-6xl font-extrabold text-slate-900 dark:text-white mb-6 leading-tight">
+  {t('heroTitlePart1')} <br className="hidden sm:block" /> 
+  <span className="text-blue-600">RCELL NEW ERA</span>
+</h1>
           <p className="mt-4 text-xl text-slate-500 dark:text-slate-400 max-w-2xl mx-auto mb-10" data-aos="fade-up" data-aos-delay="100">
             {t('heroDesc')}
           </p>

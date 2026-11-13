@@ -70,7 +70,8 @@ noEvents: "Belum ada event aktif saat ini. Silakan cek kembali nanti!",
 //navbar bawah
 footerDesc: "Membangun masa depan digital melalui inovasi pengembangan sistem dan pengalaman acara yang tak terlupakan.",
 company: "Perusahaan",
-servicesTitle: "Layanan"
+servicesTitle: "Layanan",
+heroTitlePart1: "Solusi IT & Event Profesional"
 
   },
   en: {
@@ -129,7 +130,8 @@ noEvents: "No active events at the moment. Please check back later!",
 //navbar bawah
 footerDesc: "Building a digital future through innovative system development and unforgettable event experiences.",
 company: "Company",
-servicesTitle: "Services"
+servicesTitle: "Services",
+heroTitlePart1: "Professional IT & Event Solutions"
   }
 };
 
