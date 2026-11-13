@@ -6,7 +6,8 @@ export async function GET() {
     "69c9becbefdadf011a4b5282", 
     "69ea339eb6d3f58b8ab2cf3a",
     "6aa988e36a349ee3d97f7b7f",
-    "6ab8be1ac3fc26782b3460c7"
+    "6ab8be1ac3fc26782b3460c7",
+    "6a7e874ddc1bcc6f43760ec3"
   ];
 
   try {
